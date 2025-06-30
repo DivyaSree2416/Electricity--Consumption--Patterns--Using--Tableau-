@@ -113,11 +113,11 @@ Feel free to open an issue or contact the project team.
 ---
 
 ## 👥 **Authors**
+K.Divya Sree(22AK1A3023)
+S.K.Faiza(22AK1A3025)
+L.Gayathri(22AK1A3027)
+G.Hari(22AK1A3032)
 
-*(LinkedIn Profiles Below)*
-🔗 \[Name 1]
-🔗 \[Name 2]
-🔗 \[Name 3]
 
 ---
 
